@@ -20,10 +20,14 @@ To use this script, clone this repository and run the Python script. Make sure y
 
 The output CSV file contains the following columns:
 
-'Name': The name of the exoplanet.
-'Distance': The distance of the exoplanet from Earth.
-'Mass': The mass of the exoplanet.
-'Discovery Date': The date the exoplanet was discovered.
-'Stellar Magnitude': The stellar magnitude of the exoplanet.
+**Name :** The name of the exoplanet.
+
+**Distance :** The distance of the exoplanet from Earth.
+
+**Mass :** The mass of the exoplanet.
+
+**Discovery Date :** The date the exoplanet was discovered.
+
+**Stellar Magnitude :** The stellar magnitude of the exoplanet.
 
 Remember to check the CSV file for any null values, as these may indicate missing data or errors during the extraction process.
